@@ -7,4 +7,9 @@ This is a website made to help distinguishing the optimal angle for installing s
 
 **Tech Used:** NASA Api, JavaScript...
 
-## Lessons Learned:
+## How To Run This Project Locally:
+
+```bash
+npm install
+npm run dev
+```
